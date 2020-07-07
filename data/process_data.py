@@ -2,7 +2,7 @@
 Preprocessing Disaster Response Pipeline Project
 
 Execution sample :
-> python etl_pipeline.py disaster_message.csv disaster_categories.csv DisasterResponse.db
+> python process_data.py disaster_message.csv disaster_categories.csv DisasterResponse.db
 
 Parameters:
     CSV file containing messages
