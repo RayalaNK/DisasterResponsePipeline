@@ -51,10 +51,7 @@ Go to the URL:
 
 **Acknowledgements**
 
-Figure Eight for providing pre-labeled messages dataset
-
-Author
-Naresh Rayala
+> Figure Eight for providing pre-labeled messages dataset
 
 **Copyright and License**
-Code is released under the MIT License.
+> Code is released under the MIT License.
