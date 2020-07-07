@@ -14,17 +14,17 @@ A machine learning application pipeline that is capable of curating the text mes
 
 **File Descriptions**
 
-***data:***
+  ***data:***
 - disaster_categories.csv: A csv file containing the 36 different message categories
 - disaster_messages.csv: A csv file containing the disaster messages
 - etl_pipeline.py: ETL pipeline to process messages and categories into a SQLite database
 - DisasterResponse.db: SQLite database that contains both messages and categories
 
-**model:**
+  **model:**
 - train_classifier.py: ML pipeline to build, train, evaluate, and save a classifer
 - classifier.pkl: Pick file of trained model
 
-**app:**
+  **app:**
 - run.py: Runs the Flask web app
 - templates: HTML files for web app
 
