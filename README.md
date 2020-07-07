@@ -31,7 +31,7 @@ A machine learning application pipeline that is capable of curating the text mes
 **Usage**
 
 Clone the repo using:
-> git clone https://github.com/
+> git clone https://github.com/RayalaNK/DisasterResponsePipeline.git
 
 
 Run the following commands in the project's root directory to set up your database and model.
