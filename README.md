@@ -14,7 +14,7 @@ A machine learning application pipeline that is capable of curating the text mes
 
 **File Descriptions**
 
-  ***data:***
+> **data:***
 - disaster_categories.csv: A csv file containing the 36 different message categories
 - disaster_messages.csv: A csv file containing the disaster messages
 - etl_pipeline.py: ETL pipeline to process messages and categories into a SQLite database
