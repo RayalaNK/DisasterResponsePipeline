@@ -5,12 +5,14 @@
 
 A machine learning application pipeline that is capable of curating the text messages and classify them. This application has a flask based web UI to assist emergency worker to classify caller's input into several categories so they can route them to its relevant specialized organization. The training data is provided by Figure Eight.
 
+
 **Dependencies**
 
 - Interpreter: Python 3.6+
 - Web : flask, plotly
 - Processing : numpy, pandas, scikit-learn, NLTK, pickle, re
 - DB : SQLalchemy
+
 
 **File Descriptions**
 
@@ -27,6 +29,7 @@ A machine learning application pipeline that is capable of curating the text mes
  **app:**
 - run.py: Runs the Flask web app
 - templates: HTML files for web app
+
 
 **Usage**
 
@@ -48,6 +51,7 @@ Run the following command to run your web app.
 Go to the URL:
 
 > http://0.0.0.0:3001/ or http://localhost:3001
+
 
 **Acknowledgements**
 
