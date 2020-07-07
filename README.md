@@ -7,10 +7,10 @@ A machine learning application pipeline that is capable of curating the text mes
 
 **Dependencies**
 
-Interpreter: Python 3.6+
-Web : flask, plotly
-Processing : numpy, pandas, scikit-learn, NLTK, pickle, re
-DB : SQLalchemy
+- Interpreter: Python 3.6+
+- Web : flask, plotly
+- Processing : numpy, pandas, scikit-learn, NLTK, pickle, re
+- DB : SQLalchemy
 
 **File Descriptions**
 
