@@ -20,11 +20,11 @@ A machine learning application pipeline that is capable of curating the text mes
 - etl_pipeline.py: ETL pipeline to process messages and categories into a SQLite database
 - DisasterResponse.db: SQLite database that contains both messages and categories
 
-  **model:**
+ **model:**
 - train_classifier.py: ML pipeline to build, train, evaluate, and save a classifer
 - classifier.pkl: Pick file of trained model
 
-  **app:**
+ **app:**
 - run.py: Runs the Flask web app
 - templates: HTML files for web app
 
