@@ -47,6 +47,7 @@ ML pipeline that trains classifier and saves the model
 
 Run the following command to run your web app after navigating into the app directory.
 > cd app
+
 > python run.py
 
 Go to the URL:
